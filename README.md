@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Awais 👋
 
-<!--
-**awais-zahid-se/awais-zahid-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Engineer at **CloudEva Tech**, Lahore. I build full stack products with a strong focus on Agentic AI: multi-agent systems, RAG pipelines, and the backend work that keeps them reliable in production.
 
-Here are some ideas to get you started:
+### What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI:** LangChain, LangGraph, RAG, multi-agent orchestration, MCP servers, Pinecone<br>
+**Frontend:** React.js, Next.js<br>
+**Backend:** Node.js, NestJS, Express.js, Python, FastAPI<br>
+**Data:** PostgreSQL, MongoDB, Redis<br>
+**Cloud and DevOps:** Docker, AWS (EC2, S3, Lambda), GitHub Actions
+
+### Right now
+
+Getting settled in at CloudEva Tech. Most of my time goes into shipping features end to end, from the API layer to the UI, and wiring AI agents into real business workflows.
+
+### Find me
+
+[Portfolio](https://awaiszahiddev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/awais-zahid133) · awais.zahid@cloudevatech.com
